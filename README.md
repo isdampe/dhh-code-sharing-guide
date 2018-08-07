@@ -1,6 +1,6 @@
 # Cloud code sharing guide
 
-Sharing your code for real-time collaboration is easy using [https://code.visualstudio.com/](Visual Studio Code) and
+Sharing your code for real-time collaboration is easy using [Visual Studio Code](https://code.visualstudio.com/) and
 [Live Share](https://visualstudio.microsoft.com/services/live-share).
 
 Your entire code project will become accessible by whomever you share the link with,
